@@ -1,5 +1,5 @@
 # TXTcompare
-A TXTcompare software for comparing and finding differences btw the two txt files and the compare data visually 
+A TXTcompare software for comparing and finding differences btw the two txt files and the see the comparision visually
 
 this code is licensed under GPL3.0
 
@@ -24,7 +24,7 @@ how to use -
     
 3.  now you will be asked to drag and drop the txt file into the console window - do it one by one and press enter after each one 
     
-4.  after that the files will be compared and the data will be outputted to output_result.docx ( you can use any office app to open docx file - preferably use microsoft word )
+4.  after that the files will be compared and the data will be outputted to output_result.docx ( you can use any office app to open docx file - preferably use microsoft word ) - the difference btw the files will be highligthed by red colour
     
 5.  their will be percentage also on the console output , showing the percentage that matched in both the files
 
@@ -42,25 +42,4 @@ for any queries , you can contact me via email -
 harshnative@gmail.com                 with the mail title IMP
 
 or just post down in the comments 
-
-
-
-
-
-
-
-
-
-
-
-
-TUTORIAL - 
-open the exe file 
-
-read the commands mentioned carefully to operate when the rate entry comes
-all commands given are for the filling under rate entry only 
-
-the token machine is almost infinite looped , but you have to press 0 at least ones per day and note the total sale as its going to vanish  as soon as press next enter 
-
-
 
